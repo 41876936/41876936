@@ -6,3 +6,5 @@ cd ..
 echo the script may be ready to view presently in an html viewer.
 echo your current working directory is:
 pwd
+echo this is one directory deeper than
+echo     you were before.
